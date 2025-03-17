@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\Midterm Server\bin\Debug\netcoreapp3.1\Midterm Server.exe
+C:\Users\Owner\source\repos\Midterm Server\bin\Debug\netcoreapp3.1\Midterm Server.deps.json
+C:\Users\Owner\source\repos\Midterm Server\bin\Debug\netcoreapp3.1\Midterm Server.runtimeconfig.json
+C:\Users\Owner\source\repos\Midterm Server\bin\Debug\netcoreapp3.1\Midterm Server.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Midterm Server\bin\Debug\netcoreapp3.1\Midterm Server.dll
+C:\Users\Owner\source\repos\Midterm Server\bin\Debug\netcoreapp3.1\Midterm Server.pdb
+C:\Users\Owner\source\repos\Midterm Server\obj\Debug\netcoreapp3.1\Midterm Server.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Midterm Server\obj\Debug\netcoreapp3.1\Midterm Server.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Midterm Server\obj\Debug\netcoreapp3.1\Midterm Server.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Midterm Server\obj\Debug\netcoreapp3.1\Midterm Server.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Midterm Server\obj\Debug\netcoreapp3.1\Midterm Server.dll
+C:\Users\Owner\source\repos\Midterm Server\obj\Debug\netcoreapp3.1\Midterm Server.pdb
+C:\Users\Owner\source\repos\Midterm Server\obj\Debug\netcoreapp3.1\Midterm Server.genruntimeconfig.cache
