@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Midterm Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9684339770cb31bfaa103510a0b848fa1128bab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Midterm Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Midterm Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
